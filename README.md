@@ -13,7 +13,13 @@ level in English, Russian is native.
 
 **Experience**
 
-*Dataart, Voronezh, Senior Developer, 2013 — now*
+*[SwiftServe](http://www.swiftserve.com/en/), London (remotely), 2016 — now*
+
+I'm responsible for maintaining a huge Python/Django service with lots
+of REST APIs.
+
+
+*Dataart, Voronezh, Senior Developer, 2013 — 2015*
 
 The last project is connected with the world-wide online game company
 with the audience about 70 million players. Work on a web-portal
