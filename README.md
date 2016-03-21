@@ -13,7 +13,7 @@ level in English, Russian is native.
 
 **Experience**
 
-*[SwiftServe](http://www.swiftserve.com/en/), London (remotely), 2016 — now*
+*[SwiftServe](http://www.swiftserve.com/en/), London (remotely), 2015 — now*
 
 I'm responsible for maintaining a huge Python/Django service with lots
 of REST APIs.
