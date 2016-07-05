@@ -2,65 +2,78 @@
 
 Senior Software Developer. Russia, Voronezh.
 
-ivan@grishaev.me, skype grishaev_iv
+- Email: ivan@grishaev.me
+- Skype: grishaev_iv
+- Github: [igrishaev](https://github.com/igrishaev)
 
 **Skills**
 
-Python, JavaScript, Clojure, Lua, PostgreSQL. Interests: software
-engineering, web applications, functional programming. Intermediate
-level in English, Russian is native.
+Python, JavaScript, Clojure, Lua, PostgreSQL, Docker, Ansible, AWS.
 
+Interests: software engineering, web applications, functional programming.
+
+English is intermediate, Russian is native.
 
 **Experience**
 
-*[SwiftServe](http://www.swiftserve.com/en/), London (remotely), 2015 — now*
+*[SwiftServe](http://www.swiftserve.com/en/), UK (remotely), Dec 2015 —  Jul 2016*
 
-I'm responsible for maintaining a huge Python/Django service with lots
-of REST APIs.
+I was responsible for maintaining and developing three internal services written
+in Python + Django. We had micro-service architecture with REST interface. The
+most important service was hosted in AWS.
 
+I've prepared AWS stack and automation tools such as scripts and Ansible
+roles. We used Docker in AWS. I set up new documentation system and modern test
+framework to develop tests rapidly.
 
 *Dataart, Voronezh, Senior Developer, 2013 — 2015*
 
-The last project is connected with the world-wide online game company
-with the audience about 70 million players. Work on a web-portal
-(Django) and three internal services (Falcon, Flask). The
-infrastructure involves lots of REST APIs, Celery tasks, message
-queues (RabbitMQ and Kafka). Have written lots of unit tests.
+The main project I've been working on in Dataart was a world-wide online
+game. Its audience is about 70 million players. I was working on a web-portal
+(Django) and three internal REST services (Falcon, Flask). The infrastructure
+involved lots of HTTP APIs, Celery tasks and message queues (RabbitMQ, Kafka). I
+have written lots of unit tests.
 
+The front-end part was implemented with our custom JS framework built upon
+Backbone.js + helper libraries.
 
 *Energosbyt, Chita, Developer, 2010 — 2013*
 
-Supported a vast application for selling electricity. Has created an
-online service for customers. Integrated the application with SMS
-gateway, Google services. Has created a
-[mobile application](https://play.google.com/store/apps/details?id=com.esbyt.android.lk)
-for Android
+I supported a vast application for selling electricity to our clients. I created
+an online service for customers. I integrated the application with SMS gateway
+and Google services. I created a [mobile application][mobile application] for
+Android.
+
+[mobile application]:https://play.google.com/store/apps/details?id=com.esbyt.android.lk
 
 *Web studio, Chita, Programmer, 2007 — 2010*
 
-Worked on sites, PHP engines and CMS, flash-animation.
+I worked on sites built on PHP CMS and flash-animation.
 
 **Education**
 
-Bachelor Degree in Applied Informatics in Economye,
+Bachelor Degree in Applied Informatics in Economics,
 [Chita University of Economics](http://narhoz-chita.ru/)
 
-Currently getting Master Degree in Computer Science,
+Currently, I'm getting Master Degree in Computer Science,
 [Voronezh State University](http://www.vsu.ru/)
 
 **Projects**
 
-[Queryfeed](https://queryfeed.net/) — an online service to fetch posts
-from Twitter, Facebook and Google+. Build on Clojure plus
-Ring. Handles about **5 millions** requests a day. Receives payments from
-Paypal.
-
+[Queryfeed](https://queryfeed.net/) — my pet project. It's an online service to
+fetch posts from Twitter, Facebook and Google+. It's build on Clojure plus
+Ring. It handles about **5 millions** requests a day. There is a paid
+subscription with Paypal.
 
 **Volunteering**
 
-Has created 14 lessons about Python for educational project "Hexlet"
-(generally in Russian). Each lesson consist of a video lecture, a test
-and a practical task.
+I created 14 lessons about Python for educational project "Hexlet" (the audience
+are native Russian speakers in general).
 
-- [Introducion to Python](https://ru.hexlet.io/courses/python_101)
+Each lesson consist of a video lecture, a test and a practical task.
+
+- [Introduction to Python](https://ru.hexlet.io/courses/python_101)
 - [Modules in Python](https://ru.hexlet.io/courses/python-modules)
+
+I give speeches about functional programming, Emacs, working remotely in our
+local community.
