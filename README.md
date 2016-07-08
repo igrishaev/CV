@@ -75,5 +75,4 @@ Each lesson consist of a video lecture, a test and a practical task.
 - [Introduction to Python](https://ru.hexlet.io/courses/python_101)
 - [Modules in Python](https://ru.hexlet.io/courses/python-modules)
 
-I give speeches about functional programming, Emacs, working remotely in our
-local community.
+I give speeches about programming in our local community.
