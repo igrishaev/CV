@@ -67,12 +67,15 @@ subscription with Paypal.
 
 **Volunteering**
 
-I created 14 lessons about Python for educational project "Hexlet" (the audience
-are native Russian speakers in general).
-
-Each lesson consist of a video lecture, a test and a practical task.
+I created a bunch of lessons about Python for educational project "Hexlet" (the
+audience are native Russian speakers in general). Each lesson consist of a video
+lecture, a test and a practical task.
 
 - [Introduction to Python](https://ru.hexlet.io/courses/python_101)
 - [Modules in Python](https://ru.hexlet.io/courses/python-modules)
 
-I give speeches about programming in our local community.
+I published my own [Python library][url-f] for functional programming.
+
+Every month I give speeches about programming in our local community.
+
+[url-f]: https://github.com/igrishaev/f
