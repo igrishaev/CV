@@ -8,7 +8,7 @@ Senior Software Developer. Russia, Voronezh.
 
 **Skills**
 
-Python, JavaScript, Clojure, Lua, PostgreSQL, Docker, Ansible, AWS.
+Python, JavaScript, Clojure, Emacs, Lua, PostgreSQL, AWS, Docker, Ansible.
 
 Interests: software engineering, web applications, functional programming.
 
