@@ -8,23 +8,25 @@ Senior Software Developer. Russia, Voronezh.
 
 **Skills**
 
-Python, JavaScript, Clojure, Emacs, Lua, PostgreSQL, AWS, Docker, Ansible.
+Clojure(Script), Scala, Haskell, Python, Common Lisp, JavaScript, Emacs, Lua,
+PostgreSQL, AWS, Docker, Ansible.
 
 Interests: software engineering, web applications, functional programming.
 
-English is intermediate, Russian is native.
+Fluent in English, Russian is native.
 
 **Experience**
 
-*[SwiftServe](http://www.swiftserve.com/en/), UK (remotely), Dec 2015 —  Jul 2016*
+*[SwiftServe](http://www.swiftserve.com/en/), UK (remotely), Dec 2015 — Jul
+2016*
 
 I was responsible for maintaining and developing three internal services written
 in Python + Django. We had micro-service architecture with REST interface. The
 most important service was hosted in AWS.
 
-I've prepared AWS stack and automation tools such as scripts and Ansible
-roles. We used Docker in AWS. I set up new documentation system and modern test
-framework to develop tests rapidly.
+I've prepared AWS stack and such automation tools as Bash/Python scripts and
+Ansible roles. We used Docker in AWS. I set up new documentation system and
+modern test framework to develop unit tests rapidly.
 
 *Dataart, Voronezh, Senior Developer, 2013 — 2015*
 
@@ -60,7 +62,7 @@ Currently, I'm getting Master Degree in Computer Science,
 
 **Projects**
 
-[Queryfeed](https://queryfeed.net/) — my pet project. It's an online service to
+[Queryfeed](https://queryfeed.net/) — my own project. It's an online service to
 fetch posts from Twitter, Facebook and Google+. It's build on Clojure plus
 Ring. It handles about **5 millions** requests a day. There is a paid
 subscription with Paypal.
