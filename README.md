@@ -79,9 +79,9 @@ Currently, I'm getting Master Degree in Computer Science,
 ### Projects
 
 [Queryfeed](https://queryfeed.net/) — my own project. It's an online service to
-fetch posts from Twitter, Facebook and Google+. It's build on Clojure plus
-Ring. It handles about **5 millions** requests a day. There is a paid
-subscription with Paypal.
+fetch posts from Twitter, Facebook, Google+ and Instagram. It's build on Clojure
+plus Ring and handles about **6 millions** requests a day. There is a paid
+subscription via Paypal.
 
 [F — Python library][url-f] for functional programming. In that library, I
 collected a bunch of functions and classes to bring functional style of
