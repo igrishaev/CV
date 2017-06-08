@@ -1,5 +1,13 @@
 
-all: compile
+PDF := Ivan_Grishaev_CV.pdf
+README := README.md
 
-compile:
-	pandoc README.md -o Ivan_Grishaev_CV.pdf
+all: pdf open
+
+.PHONY: pdf
+pdf: $(README)
+	pandoc $(README) -o $(PDF)
+
+.PHONY: open
+open: $(PDF)
+	open $(PDF)
