@@ -76,15 +76,12 @@ collections borrowed mostly from Clojure, Scala and Haskell.
 
 ### Other
 
-I am a father of two. Enjoy winter sports. Run my [blog][blog] in both English
-and Russian. Willing to publish my own Clojure book one day.
+I am a father of two. Enjoy winter activities. Run my [blog][blog] in both
+English and Russian. Willing to publish my own Clojure book one day.
 
 [f]: https://github.com/igrishaev/f
 [etaoin]: https://github.com/igrishaev/etaoin
-
 [webdriver]: https://www.w3.org/TR/webdriver/
-
 [py-1]: https://ru.hexlet.io/courses/python_101
 [py-2]: https://ru.hexlet.io/courses/python-modules
-
 [blog]: http://grishaev.me/
