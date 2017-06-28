@@ -1,9 +1,9 @@
 ---
-geometry: margin=1in
+papersize: A4
 header-includes:
-  - \hypersetup{colorlinks=false,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 1}}
+  - \hypersetup{colorlinks=true,
+                allbordercolors={0 0 0},
+                pdfborderstyle={/S/U/W 1}}
 ---
 
 ## Ivan Grishaev
