@@ -1,7 +1,7 @@
 ---
 papersize: A4
 header-includes:
-  - \hypersetup{colorlinks=true,
+  - \hypersetup{colorlinks=false,
                 allbordercolors={0 0 0},
                 pdfborderstyle={/S/U/W 1}}
 ---
