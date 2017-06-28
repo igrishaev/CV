@@ -1,5 +1,6 @@
 ---
 papersize: A4
+fontsize: 12pt
 header-includes:
   - \hypersetup{colorlinks=false,
                 allbordercolors={0 0 0},
@@ -73,6 +74,11 @@ Flyerbee, we use it to write UI tests against our SPA application.
 [F — Python library][f] for functional programming. It's a set of functions and
 collections borrowed mostly from Clojure, Scala and Haskell.
 
+### Other
+
+I am a father of two. Enjoy winter sports. Run my [blog][blog] in both English
+and Russian. Willing to publish my own Clojure book one day.
+
 [f]: https://github.com/igrishaev/f
 [etaoin]: https://github.com/igrishaev/etaoin
 
@@ -80,3 +86,5 @@ collections borrowed mostly from Clojure, Scala and Haskell.
 
 [py-1]: https://ru.hexlet.io/courses/python_101
 [py-2]: https://ru.hexlet.io/courses/python-modules
+
+[blog]: http://grishaev.me/
