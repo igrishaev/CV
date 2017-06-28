@@ -20,7 +20,6 @@ IT engineer. Clojure, Datomic, Python. Working remotely. Russia, Voronezh.
 - 6 years of Python/Django in highloaded projects;
 - working in distributed companies remotely from my office
 - familiar with AWS and Docker
-- strong communication and teamwork skills
 
 ## Experience
 
