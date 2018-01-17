@@ -11,7 +11,7 @@ header-includes:
 ## Ivan Grishaev
 
 IT engineer. Clojure(Script), Datomic, Python. Working remotely. Russia,
-Voronezh.
+Voronezh, UTC +3.
 
 - [ivan@grishaev.me](mailto:ivan@grishaev.me)
 - [github.com/igrishaev](https://github.com/igrishaev)
@@ -91,3 +91,4 @@ some Clojure-related posts in English:
 [py-1]: https://ru.hexlet.io/courses/python_101
 [py-2]: https://ru.hexlet.io/courses/python-modules
 [blog]: http://grishaev.me/
+[hexlet]: https://hexlet.io/
