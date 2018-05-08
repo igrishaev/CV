@@ -19,7 +19,7 @@ Voronezh, UTC +3.
 - [stackoverflow.com/users/1376325/ivan-grishaev](https://stackoverflow.com/users/1376325/ivan-grishaev)
 
 ### Summary
-- 2 years with Clojure/Datomic in production;
+- 3 years with Clojure/Datomic in production;
 - 6 years of Python/Django in highloaded projects;
 - working in distributed companies remotely from my office;
 - strong knowledge of PostgreSQL;
@@ -27,7 +27,18 @@ Voronezh, UTC +3.
 
 ## Experience
 
-### 2016 &mdash; now: Clojure developer @ [Flyerbee](https://www.flyerbee.com/) (Switzerland)
+### Jan 2018 &mdash; now: Clojure developer @ [Health Samurai](https://www.health-samurai.io/) (Russia)
+
+[npi]: https://github.com/HealthSamurai/us-npi/
+[npi-swagger]: https://npi.health-samurai.io/swagger
+
+Health Samurai is a medical startup that develops FHIR-compatible software. I
+was working on several infernal services. One of them named `US NPI` is open
+source and may be found on [GitHub][npi]. This service fetches the official US
+NPI registry and populates the database with actual data. It also provides
+flexible REST API, search capabilities and [Swagger UI][npi-swagger].
+
+### 2016 &mdash; Dec 2017: Clojure developer @ [Flyerbee](https://www.flyerbee.com/) (Switzerland)
 
 Flyerbee is a web app that automates outdooring advertisement. I worked on both
 server and UI parts of it using modified Liminus stack. It includes Clojure,
@@ -81,9 +92,9 @@ I am a father of two. Enjoy winter activities. Run my [blog][blog] in both
 English and Russian. Willing to publish my own Clojure book one day. Here are
 some Clojure-related posts in English:
 
-- [Don't use Leiningen to run shell-scripts](http://grishaev.me/en/lein)
 - [Migration from Postgres to Datomic](http://grishaev.me/en/pg-to-datomic)
 - [Database optimization](http://grishaev.me/en/db-opt)
+- [Don't use Leiningen to run shell-scripts](http://grishaev.me/en/lein)
 
 [f]: https://github.com/igrishaev/f
 [etaoin]: https://github.com/igrishaev/etaoin
