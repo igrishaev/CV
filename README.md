@@ -75,6 +75,9 @@ Economics, [Chita University of Economics](http://narhoz-chita.ru/), 2003 --
   networks using the official API and scrapping methods. It serves over 6M
   requests a day. There is a paid subscription with Paypal. Clojure, Datomic.
 
+- [QRFD](https://qrfd.io/) is a URL shorter. Single page application, Clojure,
+  Re-frame, PostgreSQL. There are a lot of upcoming features.
+
 - [Etaoin][etaoin] is a Clojure library for browser automation. It relies on
   pure [Webdriver protocol][webdriver] and does not need installing
   Selenimum. In Flyerbee, I used it to write UI tests for our SPA application.
