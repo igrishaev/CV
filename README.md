@@ -10,8 +10,8 @@ header-includes:
 
 ## Ivan Grishaev
 
-IT engineer. Clojure(Script), Datomic, Python. Working remotely. Russia,
-Voronezh, UTC +3.
+IT engineer. Clojure(Script), Datomic, Python, React(Native). Russia, Voronezh,
+UTC +3.
 
 - [ivan@grishaev.me](mailto:ivan@grishaev.me)
 - [github.com/igrishaev](https://github.com/igrishaev)
@@ -19,11 +19,26 @@ Voronezh, UTC +3.
 - [stackoverflow.com/users/1376325/ivan-grishaev](https://stackoverflow.com/users/1376325/ivan-grishaev)
 
 ### Summary
-- 3 years with Clojure/Datomic in production;
+- 4 years with Clojure/Datomic in production;
 - 6 years of Python/Django in highloaded projects;
-- working in distributed companies remotely from my office;
 - strong knowledge of PostgreSQL;
-- familiar with AWS, Docker, Bitcoin.
+- familiar with AWS, Docker, Bitcoin;
+- got some experience with mobile (Android/Java, iOS/Swift, re-natal).
+
+## Clojure contribution
+
+[book]: https://leanpub.com/clojure-java-interop/
+[etaoin]: https://github.com/igrishaev/etaoin
+
+- Wrote a [book][book] about how to re-use Java libraries in Clojure;
+
+- maintain a [library][etaoin] for browser automation as well as a bunch of some
+  minor ones;
+
+- blogging about Clojure in English, for example: [Migration from Postgres to
+  Datomic](http://grishaev.me/en/pg-to-datomic), [Database
+  optimization](http://grishaev.me/en/db-opt), [Don't use Leiningen to run
+  shell-scripts](http://grishaev.me/en/lein)
 
 ## Experience
 
@@ -73,10 +88,10 @@ Economics, [Chita University of Economics](http://narhoz-chita.ru/), 2003 --
 
 - [Queryfeed](https://queryfeed.net/) is an app to grab data from social
   networks using the official API and scrapping methods. It serves over 6M
-  requests a day. There is a paid subscription with Paypal. Clojure, Datomic.
+  requests a day. There is a paid subscription with PayPal. Clojure, Datomic.
 
 - [QRFD](https://qrfd.io/) is a URL shorter. Single page application, Clojure,
-  Re-frame, PostgreSQL. There are a lot of upcoming features.
+  Re-frame, PostgreSQL.
 
 - [Etaoin][etaoin] is a Clojure library for browser automation. It relies on
   pure [Webdriver protocol][webdriver] and does not need installing
@@ -92,15 +107,9 @@ Economics, [Chita University of Economics](http://narhoz-chita.ru/), 2003 --
 ### Other
 
 I am a father of two. Enjoy winter activities. Run my [blog][blog] in both
-English and Russian. Willing to publish my own Clojure book one day. Here are
-some Clojure-related posts in English:
-
-- [Migration from Postgres to Datomic](http://grishaev.me/en/pg-to-datomic)
-- [Database optimization](http://grishaev.me/en/db-opt)
-- [Don't use Leiningen to run shell-scripts](http://grishaev.me/en/lein)
+English and Russian.
 
 [f]: https://github.com/igrishaev/f
-[etaoin]: https://github.com/igrishaev/etaoin
 [webdriver]: https://www.w3.org/TR/webdriver/
 [py-1]: https://ru.hexlet.io/courses/python_101
 [py-2]: https://ru.hexlet.io/courses/python-modules
