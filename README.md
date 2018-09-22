@@ -48,7 +48,7 @@ UTC +3.
 [npi-swagger]: https://npi.health-samurai.io/swagger
 
 Health Samurai is a medical startup that develops FHIR-compatible software. I
-was working on several infernal services. One of them named `US NPI` is open
+was working on several internal services. One of them named `US NPI` is open
 source and may be found on [GitHub][npi]. This service fetches the official US
 NPI registry and populates the database with actual data. It also provides
 flexible REST API, search capabilities and [Swagger UI][npi-swagger].
