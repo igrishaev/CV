@@ -10,108 +10,122 @@ header-includes:
 
 ## Ivan Grishaev
 
-IT engineer. Clojure(Script), Datomic, Python, React(Native). Russia, Voronezh,
-UTC +3.
+An IT engineer focused exclusively on Clojure for the last 6 years. With long
+Python/Delphi/PHP experience in the past.
+
+Tags: Clojure(Script), Postgres, Datomic, Kafka, Python. Emacs, LaTeX.
+
+Russia, Voronezh, UTC +3.
+
+Links:
 
 - [ivan@grishaev.me](mailto:ivan@grishaev.me)
 - [github.com/igrishaev](https://github.com/igrishaev)
 - [linkedin.com/in/igrishaev](https://linkedin.com/in/igrishaev)
-- [stackoverflow.com/users/1376325/ivan-grishaev](https://stackoverflow.com/users/1376325/ivan-grishaev)
 
 ### Summary
-- 4 years with Clojure/Datomic in production;
-- 6 years of Python/Django in highloaded projects;
-- strong knowledge of PostgreSQL;
-- familiar with AWS, Docker, Bitcoin;
-- got some experience with mobile (Android/Java, iOS/Swift, re-natal).
+- 6 years of Clojure in production (Aleph/manifold stack, core.async,
+  Component/Integrant);
+- experience with different data sources: PG, Datomic, Kafka, Cassandra, etc.
+- some experience with frontend: re-frame, React;
+- mobile development: Re-Natal with some bits of Obj-C/Swift;
+- knowledge of Python/Django;
+- good with Emacs and LaTeX.
 
 ## Clojure contribution
 
-[book]: https://leanpub.com/clojure-java-interop/
 [etaoin]: https://github.com/igrishaev/etaoin
 
-- Wrote a [book][book] about how to re-use Java libraries in Clojure;
+I maintain about ten Clojure libraries hosted on Github. One of them is
+[Etaoin][etaoin] which is widely used (700 stars, spotted in many companies).
 
-- maintain a [library][etaoin] for browser automation as well as a bunch of some
-  minor ones;
+[book-clj-interop]: https://leanpub.com/clojure-java-interop/
 
-- blogging about Clojure in English, for example: [Migration from Postgres to
-  Datomic](http://grishaev.me/en/pg-to-datomic), [Database
-  optimization](http://grishaev.me/en/db-opt), [Don't use Leiningen to run
-  shell-scripts](http://grishaev.me/en/lein)
+I wrote a short book in English about Java interop. [Get in on
+Leanpub][book-clj-interop].
+
+[book-clj-prod]: https://grishaev.me/clojure-in-prod/
+
+I wrote a full printed book in Russian called ["Clojure in
+Production"][book-clj-prod]. The book covers web development, Clojure.spec,
+exception handling, systems, testing and other subjects. It is partially
+translated to English in my blog.
 
 ## Experience
 
-### Jan 2018 &mdash; now: Clojure developer @ [Health Samurai](https://www.health-samurai.io/) (Russia)
+### Dec 2018 &mdash; Feb 2022: Senior Clojure developer @
+[Exoscale](https://www.exoscale.com/) (Switzerland)
+
+At Exoscale, I mostly worked on various network orchestrators. We had plenty of
+data sources like Mysql, Cassandra, Kafka which required precise control. I used
+Aleph & Manifold stack for my apps. I maintained some legacy apps driven with
+Core.async.
+
+Exoscale has plenty of internal stuff which I contributed to. One of them is a
+web framework built on top of Open-API spec and data schemas.
+
+I made an app to upload vast files (+100Gb) to our infrastructure.
+
+I integrated the web SSH terminal to the admin page (noVNC, JavaScript, Clojure
+on backend).
+
+I made a draft of the official CLI utility for Exoscale API. That was a Clojure
+project compiled with GraalVM/native-image. The file size was 25Mb, and the
+performance was faster than Golang's.
+
+During the last year at Exoscale, I worked on DBaaS: a massive feature that
+integrates a third-party database provider into the Exoscale
+infrastructure. That involved HTTP API, data processing, reconciliation, billing
+processing and more.
+
+### Jan 2018 &mdash; Dec 2018: Senior Clojure developer @ [Health Samurai](https://www.health-samurai.io/) (Russia)
 
 [npi]: https://github.com/HealthSamurai/us-npi/
 [npi-swagger]: https://npi.health-samurai.io/swagger
 
-Health Samurai is a medical startup that develops FHIR-compatible software. I
-was working on several internal services. One of them named `US NPI` is open
-source and may be found on [GitHub][npi]. This service fetches the official US
-NPI registry and populates the database with actual data. It also provides
-flexible REST API, search capabilities and [Swagger UI][npi-swagger].
+Health Samurai is a startup focused on medical data. They develop
+FHIR-compatible software, and I was working on several internal services. One of
+them named `US NPI` is open source and may be found on [GitHub][npi]. This
+service fetches the official US NPI registry and fills the database. It also
+provides flexible REST API, search capabilities and [Swagger UI][npi-swagger].
+
+I spent four months working on a mobile app for iOS. The app was driven by
+Re-Natal and ClojureScript. We managed to pass Apple's review and had the app
+released in App Store.
 
 ### 2016 &mdash; Dec 2017: Clojure developer @ [Flyerbee](https://www.flyerbee.com/) (Switzerland)
 
-Flyerbee is a web app that automates outdooring advertisement. I worked on both
-server and UI parts of it using modified Liminus stack. It includes Clojure,
-Ring, JDBC/PostgreSQL, Re-frame.
+Flyerbee is a web app that automates outdooring advertisements. I worked on both
+server and UI parts using a modified version of the Luminus stack. That included
+Clojure, Ring, JDBC/PostgreSQL, and Re-frame.
 
 ### 2015 &mdash; 2016: Python developer @ [SwiftServe](http://www.swiftserve.com/) (UK)
 
-SwiftServe is a world-wide CDN network that competes with AWS CloudFront. I
+SwiftServe is a worldwide CDN network that competes with AWS CloudFront. I
 developed three internal services written in Python and Django and set up
-micro-service architecture in AWS cloud. I integrated modern unit-test framework
-into our pipeline and added a new documentation system.
+micro-service architecture in AWS cloud. I integrated a modern unit-test
+framework into our pipeline and added a new documentation system.
 
 ### 2013 &mdash; 2015: Python developer @ [Dataart](http://www.dataart.com/)
 
 DataArt is a vast outsourcing company. The main project I've been working on was
-a world-wide online game with 70M players. I developed several internal
+a worldwide online game with 70M players. I developed several internal
 services, set up message queues and wrote lots of unit tests.
 
 ### 2008 &mdash; 2013: Various contracting jobs
 
-I've been working on various projects including PHP, Java and Delphi. My clients
-were mostly individuals and mid companies. I used to develop desktop apps,
-online services and Android applications.
+I've been working on various projects including Python, Delphi, and PHP. My
+clients were mostly individuals and small companies. I developed desktop apps,
+websites and simple Android applications.
 
 ### Education
 
-Bachelor Degree at Applied Informatics in
-Economics, [Chita University of Economics](http://narhoz-chita.ru/), 2003 --
-2008
-
-### Own Projects and Open source
-
-- [Queryfeed](https://queryfeed.net/) is an app to grab data from social
-  networks using the official API and scrapping methods. It serves over 6M
-  requests a day. There is a paid subscription with PayPal. Clojure, Datomic.
-
-- [QRFD](https://qrfd.io/) is a URL shorter. Single page application, Clojure,
-  Re-frame, PostgreSQL.
-
-- [Etaoin][etaoin] is a Clojure library for browser automation. It relies on
-  pure [Webdriver protocol][webdriver] and does not need installing
-  Selenimum. In Flyerbee, I used it to write UI tests for our SPA application.
-
-- [F — Python library][f] for functional programming. It's a set of functions
-  and collections borrowed mostly from Clojure, Scala and Haskell.
-
-- Python lessons for educational project [Hexlet][hexlet] (in Russian,
-  [first][py-1], [second][py-2] courses). I've made 15 classes in total, each
-  consists of a video, a quiz and a practical task.
+Bachelor's Degree at Applied Informatics in Economics, [Chita University of
+Economics](http://narhoz-chita.ru/), 2003 -- 2008
 
 ### Other
 
-I am a father of two. Enjoy winter activities. Run my [blog][blog] in both
-English and Russian.
+I am a father of three. Enjoy winter activities. Run my [blog][blog] in both
+English and Russian. Educate a couple of students.
 
-[f]: https://github.com/igrishaev/f
-[webdriver]: https://www.w3.org/TR/webdriver/
-[py-1]: https://ru.hexlet.io/courses/python_101
-[py-2]: https://ru.hexlet.io/courses/python-modules
-[blog]: http://grishaev.me/
-[hexlet]: https://hexlet.io/
+[blog]: https://grishaev.me
