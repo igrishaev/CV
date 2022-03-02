@@ -53,8 +53,7 @@ translated to English in my blog.
 
 ## Experience
 
-### Dec 2018 &mdash; Feb 2022: Senior Clojure developer @
-[Exoscale](https://www.exoscale.com/) (Switzerland)
+### Dec 2018 &mdash; Feb 2022: Senior Clojure developer @ [Exoscale](https://www.exoscale.com/) (Switzerland)
 
 At Exoscale, I mostly worked on various network orchestrators. We had plenty of
 data sources like Mysql, Cassandra, Kafka which required precise control. I used
