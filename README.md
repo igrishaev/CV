@@ -115,9 +115,9 @@ services, set up message queues and wrote lots of unit tests.
 
 ### 2008 &mdash; 2013: Various contracting jobs
 
-I've been working on various projects including Python, Delphi, and PHP. My
-clients were mostly individuals and small companies. I developed desktop apps,
-websites and simple Android applications.
+I've been working on various projects including Python and Delphi. My clients
+were mostly individuals and small companies. I developed desktop apps, websites
+and simple Android applications.
 
 ### Education
 
