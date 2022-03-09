@@ -24,8 +24,7 @@ Links:
 - [linkedin.com/in/igrishaev](https://linkedin.com/in/igrishaev)
 
 ### Summary
-- 6 years of Clojure in production (Aleph/manifold stack, core.async,
-  Component/Integrant);
+- 6 years of Clojure in production (Aleph/manifold stack, core.async, Component/Integrant);
 - experience with different data sources: PG, Datomic, Kafka, Cassandra, etc.
 - some experience with frontend: re-frame, React;
 - mobile development: Re-Natal with some bits of Obj-C/Swift;
