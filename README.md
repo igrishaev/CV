@@ -35,8 +35,11 @@ Links:
 
 [etaoin]: https://github.com/igrishaev/etaoin
 
-I maintain about ten Clojure libraries hosted on Github. One of them is
-[Etaoin][etaoin] which is widely used (700 stars, spotted in many companies).
+[clojars]: https://clojars.org/users/igrishaev
+
+I maintain about a dozen of Clojure libraries hosted on Github (see my [Clojars
+profile][clojars]). One of them is [Etaoin][etaoin] which is widely used (700
+stars, spotted in many companies).
 
 [book-clj-interop]: https://leanpub.com/clojure-java-interop/
 
