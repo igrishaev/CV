@@ -10,8 +10,8 @@ header-includes:
 
 ## Ivan Grishaev
 
-An IT engineer focused exclusively on Clojure for the last 6 years. With long
-Python/Delphi/PHP experience in the past.
+An IT engineer focused exclusively on Clojure for the last 6-7 years. With long
+Python & Delphi experience in the past.
 
 Tags: Clojure(Script), Postgres, Datomic, Kafka, Python. Emacs, LaTeX.
 
@@ -24,11 +24,11 @@ Links:
 - [linkedin.com/in/igrishaev](https://linkedin.com/in/igrishaev)
 
 ### Summary
-- 6 years of Clojure in production (Aleph/manifold stack, core.async, Component/Integrant);
+- 6-7 years of Clojure in production (Aleph/manifold stack, core.async, Component/Integrant);
 - experience with different data sources: PG, Datomic, Kafka, Cassandra, etc.
 - some experience with frontend: re-frame, React;
 - mobile development: Re-Natal with some bits of Obj-C/Swift;
-- knowledge of Python/Django;
+- good knowledge of Python/Django;
 - good with Emacs and LaTeX.
 
 ## Clojure contribution
@@ -63,9 +63,9 @@ Aleph & Manifold stack for my apps. I maintained some legacy apps driven with
 Core.async.
 
 Exoscale has plenty of internal stuff which I contributed to. One of them is a
-web framework built on top of Open-API spec and data schemas.
+web framework named Blueprint built on top of Open-API spec and data schemas.
 
-I made an app to upload vast files (+100Gb) to our infrastructure.
+I made an app to transfer vast files (+100Gb) into our infrastructure.
 
 I integrated the web SSH terminal to the admin page (noVNC, JavaScript, Clojure
 on backend).
@@ -74,8 +74,10 @@ I made a draft of the official CLI utility for Exoscale API. That was a Clojure
 project compiled with GraalVM/native-image. The file size was 25Mb, and the
 performance was faster than Golang's.
 
-During the last year at Exoscale, I worked on DBaaS: a massive feature that
-integrates a third-party database provider into the Exoscale
+[dbaas]: https://www.exoscale.com/dbaas/
+
+During the last year at Exoscale, I worked on [DBaaS][dbaas]: a massive feature
+that integrates a third-party database provider into the Exoscale
 infrastructure. That involved HTTP API, data processing, reconciliation, billing
 processing and more.
 
