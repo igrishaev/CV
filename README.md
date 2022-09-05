@@ -10,10 +10,11 @@ header-includes:
 
 ## Ivan Grishaev
 
-An IT engineer focused exclusively on Clojure for the last 6-7 years. With long
+An IT engineer focused exclusively on Clojure for the last 8 years. With long
 Python & Delphi experience in the past.
 
-Tags: Clojure(Script), Postgres, Datomic, Kafka, Python. Emacs, LaTeX.
+Tags: Clojure(Script), GraalVM, Postgres, Datomic, AWS/Lambda, Kafka,
+Python. Emacs, LaTeX.
 
 Russia, Voronezh, UTC +3.
 
@@ -24,10 +25,11 @@ Links:
 - [linkedin.com/in/igrishaev](https://linkedin.com/in/igrishaev)
 
 ### Summary
-- 6-7 years of Clojure in production (Aleph/manifold stack, core.async, Component/Integrant);
+- 8 years of Clojure in production (Aleph/Manifold stack, core.async,
+  Component/Integrant);
+- Graal/native-image compilation for AWS Lambda and CLI tools;
 - experience with different data sources: PG, Datomic, Kafka, Cassandra, etc.
 - some experience with frontend: re-frame, React;
-- mobile development: Re-Natal with some bits of Obj-C/Swift;
 - good knowledge of Python/Django;
 - good with Emacs and LaTeX.
 
@@ -54,6 +56,10 @@ exception handling, systems, testing and other subjects. It is partially
 translated to English in my blog.
 
 ## Experience
+
+### Feb 2022 &mdash; now: Senior Clojure developer @ [Clashapp/Huddles](https://huddlesapp.co/) (USA)
+
+I support vast Clojure codebase with plenty of components. AWS + Postgres.
 
 ### Dec 2018 &mdash; Feb 2022: Senior Clojure developer @ [Exoscale](https://www.exoscale.com/) (Switzerland)
 
