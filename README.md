@@ -54,9 +54,24 @@ translated to English in my blog.
 
 ## Experience
 
-### Feb 2022 &mdash; now: Senior Clojure developer @ [Clashapp/Huddles](https://huddlesapp.co/) (USA)
+### Nov 2022 &mdash; now: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
 
-I support vast Clojure codebase with plenty of components. AWS + Postgres.
+I'm working on a vast Clojure code base + Postgres. Some of the things I've done
+so far:
+
+- introduced Docker & integration tests;
+- added linters, improved the CI;
+- wrote some internal documentation;
+- implemented new business features.
+
+### Feb 2022 &mdash; Sep 2022: Senior Clojure developer @ [Clashapp/Huddles](https://huddlesapp.co/) (USA)
+
+I support vast Clojure codebase with plenty of components:
+
+- AWS, Postgres;
+- Integration with third-party providers;
+- Handling AppStore notifications;
+- Massive integration tests.
 
 ### Dec 2018 &mdash; Feb 2022: Senior Clojure developer @ [Exoscale](https://www.exoscale.com/) (Switzerland)
 
