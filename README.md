@@ -2,7 +2,7 @@
 papersize: A4
 fontsize: 10pt
 geometry: margin=1in
-header-includes:
+colorlinks: true
  \hypersetup{colorlinks=false,
              allbordercolors={0 0 0},
              pdfborderstyle={/S/U/W 1}}
@@ -16,7 +16,7 @@ Python & Delphi experience in the past.
 Tags: Clojure(Script), GraalVM, Postgres, Datomic, AWS/Lambda, Kafka,
 Python. Emacs, LaTeX.
 
-Russia, Voronezh, UTC +3.
+Russia / Armenia, UTC +3
 
 Links:
 
