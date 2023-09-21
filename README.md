@@ -67,7 +67,7 @@ vol. 2"][book-clj-prod-2].
 I maintain a vast risk management system. Clojure, AWS, Lambda, Postgres,
 message queues.
 
-### Nov 2022 &mdash; May 2023: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
+### Nov 2022 &mdash; Sep 2023: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
 
 I'm working on a vast Clojure code base + Postgres. Some of the things I've done
 so far:
