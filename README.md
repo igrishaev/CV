@@ -10,13 +10,13 @@ colorlinks: true
 
 ## Ivan Grishaev
 
-An IT engineer focused exclusively on Clojure for the last 8 years. With long
-Python & Delphi experience in the past.
+An IT engineer focused on Clojure/Java for the last 8 years. With long Python &
+Delphi experience in the past.
 
 Tags: Clojure(Script), GraalVM, Postgres, Datomic, AWS/Lambda, Kafka,
 Python. Emacs, LaTeX.
 
-Russia / Armenia, UTC +3
+Armenia, UTC +3
 
 Links:
 
@@ -55,9 +55,19 @@ Production"][book-clj-prod]. The book covers web development, Clojure.spec,
 exception handling, systems, testing and other subjects. It is partially
 translated to English in my blog.
 
+[book-clj-prod-2]: https://grishaev.me/clojure-in-prod-2/
+
+I wrote the second volume of it called ["Clojure in Production:
+vol. 2"][book-clj-prod-2].
+
 ## Experience
 
-### Nov 2022 &mdash; now: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
+### May 2023 &mdash; now: Senior Clojure developer @ [Raiffeisen Bank International](https://www.rbinternational.com/en/raiffeisen.html) (Austria)
+
+I maintain a vast risk management system. Clojure, AWS, Lambda, Postgres,
+message queues.
+
+### Nov 2022 &mdash; May 2023: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
 
 I'm working on a vast Clojure code base + Postgres. Some of the things I've done
 so far:
