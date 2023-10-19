@@ -10,11 +10,10 @@ colorlinks: true
 
 ## Ivan Grishaev
 
-An IT engineer focused on Clojure/Java for the last 8 years. With long Python &
-Delphi experience in the past.
+An IT engineer focused on Python, Clojure & Java.
 
-Tags: Clojure(Script), GraalVM, Postgres, Datomic, AWS/Lambda, Kafka,
-Python. Emacs, LaTeX.
+Tags: Python, Clojure(Script), Java, GraalVM, Postgres, Datomic, AWS Lambda,
+Kafka, Python, Emacs, LaTeX.
 
 Armenia, UTC +3
 
@@ -25,15 +24,27 @@ Links:
 - [linkedin.com/in/igrishaev](https://linkedin.com/in/igrishaev)
 
 ### Summary
-- 8 years of Clojure in production (Aleph/Manifold stack, core.async,
-  Component/Integrant);
-- Graal/native-image compilation for AWS Lambda and CLI tools;
+
+- 8 years of Python: Django & Flask, Fast API, Pytest, Tox;
+- 8 years of Clojure: Aleph/Manifold, core.async, Component/Integrant;
+- GraalVM + native-image compilation of Java & Clojure projects for AWS Lambda;
 - experience with different data sources: PG, Datomic, Kafka, Cassandra, etc.
 - some experience with frontend: re-frame, React;
-- good knowledge of Python/Django;
 - good with Emacs and LaTeX.
 
-## Clojure contribution
+## Mentoring
+
+[hexlet]: https://hexlet.io
+
+I educated a couple of students and helped them graduate and find their first
+job. I've been preparing them to the interview. Their diploma projects were
+considered the best ones across the course. I teach Egnlish, informally.
+
+In the past, I made Python lessons for the educational platform
+[Hexlet.io][hexlet]. Each class consisted of a video course, a quiz and a code
+task to complete. The video courses are still available on Youtube.
+
+## Projects & Open source
 
 [etaoin]: https://github.com/igrishaev/etaoin
 
@@ -50,21 +61,21 @@ Leanpub][book-clj-interop].
 
 [book-clj-prod]: https://grishaev.me/clojure-in-prod/
 
-I wrote a full printed book in Russian called ["Clojure in
+I wrote a full print book in Russian called ["Clojure in
 Production"][book-clj-prod]. The book covers web development, Clojure.spec,
 exception handling, systems, testing and other subjects. It is partially
 translated to English in my blog.
 
 [book-clj-prod-2]: https://grishaev.me/clojure-in-prod-2/
 
-I wrote the second volume of it called ["Clojure in Production:
+I wrote the second volume called ["Clojure in Production:
 vol. 2"][book-clj-prod-2].
 
 ## Experience
 
 ### May 2023 &mdash; now: Senior Clojure developer @ [Raiffeisen Bank International](https://www.rbinternational.com/en/raiffeisen.html) (Austria)
 
-I maintain a vast risk management system. Clojure, AWS, Lambda, Postgres,
+I maintain a vast risk management system. Clojure, Java, AWS, Lambda, Postgres,
 message queues.
 
 ### Nov 2022 &mdash; Sep 2023: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
@@ -101,9 +112,10 @@ I made an app to transfer vast files (+100Gb) into our infrastructure.
 I integrated the web SSH terminal to the admin page (noVNC, JavaScript, Clojure
 on backend).
 
-I made a draft of the official CLI utility for Exoscale API. That was a Clojure
-project compiled with GraalVM/native-image. The file size was 25Mb, and the
-performance was faster than Golang's.
+I made a lot of improvements to the internal billing system written in Python,
+Django and Pytest.
+
+I made a draft of the official CLI client for Exoscale API.
 
 [dbaas]: https://www.exoscale.com/dbaas/
 
@@ -160,6 +172,6 @@ Economics](http://narhoz-chita.ru/), 2003 -- 2008
 ### Other
 
 I am a father of three. Enjoy winter activities. Run my [blog][blog] in both
-English and Russian. Educate a couple of students.
+English and Russian.
 
 [blog]: https://grishaev.me
