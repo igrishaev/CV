@@ -1,7 +1,7 @@
 ---
 papersize: A4
 fontsize: 10pt
-geometry: margin=1in
+geometry: margin=0.7in
 colorlinks: true
  \hypersetup{colorlinks=false,
              allbordercolors={0 0 0},
