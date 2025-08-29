@@ -73,10 +73,11 @@ vol. 2"][book-clj-prod-2].
 
 ## Experience
 
-### May 2023 &mdash; now: Senior Clojure developer @ [Raiffeisen Bank International](https://www.rbinternational.com/en/raiffeisen.html) (Austria)
+### May 2023 &mdash; now: Senior Clojure developer @ Vast European Fintech Company
 
-I maintain a vast risk management system. Clojure, Java, AWS, Lambda, Postgres,
-message queues.
+I maintain a complex risk management system in a vast European fintech
+company. Clojure, Java, AWS, Lambda, Postgres, message queues. Lots of services
+and distributed computations.
 
 ### Nov 2022 &mdash; Sep 2023: Senior Clojure developer @ [Audience Republic](https://www.audiencerepublic.com/) (Australia)
 

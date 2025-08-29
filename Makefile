@@ -11,3 +11,6 @@ pdf: $(README)
 .PHONY: open
 open: $(PDF)
 	open $(PDF)
+
+install:
+	brew install pandoc basictex
