@@ -38,7 +38,7 @@ Links:
 
 I educated a couple of students and helped them graduate and find their first
 job. I've been preparing them to the interview. Their diploma projects were
-considered the best ones across the course. I teach Egnlish, informally.
+considered the best ones across the course. I teach English, informally.
 
 In the past, I made Python lessons for the educational platform
 [Hexlet.io][hexlet]. Each class consisted of a video course, a quiz and a code
